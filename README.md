@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Joel Manasseh
 
-<!--
-**jmanasseh199-dot/jmanasseh199-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer  
+🚀 I build clean, responsive web applications  
+📊 Currently working on a Smart Finance Tracker  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- HTML, CSS, JavaScript
+- Git & GitHub
+- Responsive Design
+
+---
+
+## 🚀 Projects
+
+### 💰 Finance Tracker App
+A smart personal finance manager with clean UI and tracking features.  
+🔗 Live Demo: https://joel-finance-tracker.netlify.app/  
+
+---
+
+### 🌐 Portfolio Website
+My personal developer portfolio with animations and responsive design.  
+🔗 Live Demo: (add your best Netlify link)
+
+---
+
+## 📈 Goals
+- Become a professional frontend developer  
+- Build real-world SaaS products  
+- Start earning from tech  
+
+---
+
+## 📫 Connect with me
+- GitHub: https://github.com/jmanasseh199-dot
